@@ -1,0 +1,6 @@
+CONTROL FILE FOR Hypolimnetic aeration
+    NAER           # of aerators
+       1
+                         kg O2/d                                                    
+    SEG#   KTOP#   KBOT#  MASSRT   TIMON  TIMOFF  DZFACT   O2OFF    O2ON    iprb    kprb
+      11      75      85  12500.     1.0    15.0      5.    15.5    12.0      11      75
