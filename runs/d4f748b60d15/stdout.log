@@ -1,0 +1,96 @@
+Day      1 +  0.00 h     0.0% | step        1 | dt    10.000 s | viol    0.0% | elapsed     0.0 d
+Day      2 +  0.00 h     0.3% | step     8680 | dt    10.000 s | viol    0.0% | elapsed     1.0 d
+Day      3 +  0.00 h     0.5% | step    17360 | dt    10.000 s | viol    0.0% | elapsed     2.0 d
+Day      4 +  0.00 h     0.8% | step    26040 | dt    10.000 s | viol    0.0% | elapsed     3.0 d
+Day      5 +  0.00 h     1.1% | step    34720 | dt    10.000 s | viol    0.0% | elapsed     4.0 d
+Day      6 +  0.00 h     1.4% | step    43400 | dt    10.000 s | viol    0.0% | elapsed     5.0 d
+Day      7 +  0.00 h     1.6% | step    52080 | dt    10.000 s | viol    0.0% | elapsed     6.0 d
+Day      8 +  0.00 h     1.9% | step    60760 | dt    10.000 s | viol    0.0% | elapsed     7.0 d
+Day      9 +  0.00 h     2.2% | step    69440 | dt    10.000 s | viol    0.0% | elapsed     8.0 d
+Day     10 +  0.00 h     2.5% | step    78120 | dt    10.000 s | viol    0.0% | elapsed     9.0 d
+Day     11 +  0.00 h     2.7% | step    86800 | dt    10.000 s | viol    0.0% | elapsed    10.0 d
+Day     12 +  0.00 h     3.0% | step    95480 | dt    10.000 s | viol    0.0% | elapsed    11.0 d
+Day     13 +  0.00 h     3.3% | step   104160 | dt    10.000 s | viol    0.0% | elapsed    12.0 d
+Day     14 +  0.00 h     3.6% | step   112840 | dt    10.000 s | viol    0.0% | elapsed    13.0 d
+Day     15 +  0.00 h     3.8% | step   121520 | dt    10.000 s | viol    0.0% | elapsed    14.0 d
+Day     16 +  0.00 h     4.1% | step   130200 | dt    10.000 s | viol    0.0% | elapsed    15.0 d
+Day     17 +  0.00 h     4.4% | step   138880 | dt    10.000 s | viol    0.0% | elapsed    16.0 d
+Day     18 +  0.00 h     4.7% | step   147560 | dt    10.000 s | viol    0.0% | elapsed    17.0 d
+Day     19 +  0.00 h     4.9% | step   156240 | dt    10.000 s | viol    0.0% | elapsed    18.0 d
+Day     20 +  0.00 h     5.2% | step   164920 | dt    10.000 s | viol    0.0% | elapsed    19.0 d
+Day     21 +  0.00 h     5.5% | step   173605 | dt    10.000 s | viol    0.0% | elapsed    20.0 d
+Day     22 +  0.00 h     5.8% | step   182304 | dt    10.000 s | viol    0.0% | elapsed    21.0 d
+Day     23 +  0.00 h     6.0% | step   191003 | dt    10.000 s | viol    0.0% | elapsed    22.0 d
+Day     24 +  0.00 h     6.3% | step   199701 | dt    10.000 s | viol    0.0% | elapsed    23.0 d
+Day     25 +  0.00 h     6.6% | step   208400 | dt    10.000 s | viol    0.0% | elapsed    24.0 d
+Day     26 +  0.00 h     6.9% | step   217099 | dt    10.000 s | viol    0.0% | elapsed    25.0 d
+Day     27 +  0.00 h     7.1% | step   225797 | dt    10.000 s | viol    0.0% | elapsed    26.0 d
+Day     28 +  0.00 h     7.4% | step   234495 | dt    10.000 s | viol    0.0% | elapsed    27.0 d
+Day     29 +  0.00 h     7.7% | step   243194 | dt    10.000 s | viol    0.0% | elapsed    28.0 d
+Day     30 +  0.00 h     8.0% | step   251892 | dt    10.000 s | viol    0.0% | elapsed    29.0 d
+Day     31 +  0.00 h     8.2% | step   260590 | dt    10.000 s | viol    0.0% | elapsed    30.0 d
+Day     32 +  0.00 h     8.5% | step   269289 | dt    10.000 s | viol    0.0% | elapsed    31.0 d
+Day     33 +  0.00 h     8.8% | step   277988 | dt    10.000 s | viol    0.0% | elapsed    32.0 d
+Day     34 +  0.00 h     9.1% | step   286687 | dt    10.000 s | viol    0.0% | elapsed    33.0 d
+Day     35 +  0.00 h     9.3% | step   295386 | dt    10.000 s | viol    0.0% | elapsed    34.0 d
+Day     36 +  0.00 h     9.6% | step   304085 | dt    10.000 s | viol    0.0% | elapsed    35.0 d
+Day     37 +  0.00 h     9.9% | step   312784 | dt    10.000 s | viol    0.0% | elapsed    36.0 d
+Day     38 +  0.00 h    10.2% | step   321483 | dt    10.000 s | viol    0.0% | elapsed    37.0 d
+Day     39 +  0.00 h    10.4% | step   330182 | dt    10.000 s | viol    0.0% | elapsed    38.0 d
+Day     40 +  0.00 h    10.7% | step   338881 | dt    10.000 s | viol    0.0% | elapsed    39.0 d
+Day     41 +  0.00 h    11.0% | step   347580 | dt    10.000 s | viol    0.0% | elapsed    40.0 d
+Day     42 +  0.00 h    11.3% | step   356280 | dt    10.000 s | viol    0.0% | elapsed    41.0 d
+Day     43 +  0.00 h    11.5% | step   364980 | dt    10.000 s | viol    0.0% | elapsed    42.0 d
+Day     44 +  0.00 h    11.8% | step   373680 | dt    10.000 s | viol    0.0% | elapsed    43.0 d
+Day     45 +  0.00 h    12.1% | step   382380 | dt    10.000 s | viol    0.0% | elapsed    44.0 d
+Day     46 +  0.00 h    12.4% | step   391080 | dt    10.000 s | viol    0.0% | elapsed    45.0 d
+Day     47 +  0.00 h    12.6% | step   399779 | dt    10.000 s | viol    0.0% | elapsed    46.0 d
+Day     48 +  0.00 h    12.9% | step   408478 | dt    10.000 s | viol    0.0% | elapsed    47.0 d
+Day     49 +  0.00 h    13.2% | step   417177 | dt    10.000 s | viol    0.0% | elapsed    48.0 d
+Day     50 +  0.00 h    13.5% | step   425876 | dt    10.000 s | viol    0.0% | elapsed    49.0 d
+Day     51 +  0.00 h    13.7% | step   434575 | dt    10.000 s | viol    0.0% | elapsed    50.0 d
+Day     52 +  0.00 h    14.0% | step   443268 | dt    10.000 s | viol    0.0% | elapsed    51.0 d
+Day     53 +  0.00 h    14.3% | step   451957 | dt    10.000 s | viol    0.0% | elapsed    52.0 d
+Day     54 +  0.00 h    14.6% | step   460656 | dt    10.000 s | viol    0.0% | elapsed    53.0 d
+Day     55 +  0.00 h    14.8% | step   469355 | dt    10.000 s | viol    0.0% | elapsed    54.0 d
+Day     56 +  0.00 h    15.1% | step   478054 | dt    10.000 s | viol    0.0% | elapsed    55.0 d
+Day     57 +  0.00 h    15.4% | step   486753 | dt    10.000 s | viol    0.0% | elapsed    56.0 d
+Day     58 +  0.00 h    15.7% | step   495452 | dt    10.000 s | viol    0.0% | elapsed    57.0 d
+Day     59 +  0.00 h    15.9% | step   504151 | dt    10.000 s | viol    0.0% | elapsed    58.0 d
+Day     60 +  0.00 h    16.2% | step   512850 | dt    10.000 s | viol    0.0% | elapsed    59.0 d
+Day     61 +  0.00 h    16.5% | step   521543 | dt    10.000 s | viol    0.0% | elapsed    60.0 d
+Day     62 +  0.00 h    16.8% | step   530223 | dt    10.000 s | viol    0.0% | elapsed    61.0 d
+Day     63 +  0.00 h    17.0% | step   538903 | dt    10.000 s | viol    0.0% | elapsed    62.0 d
+Day     64 +  0.00 h    17.3% | step   547583 | dt    10.000 s | viol    0.0% | elapsed    63.0 d
+Day     65 +  0.00 h    17.6% | step   556259 | dt    10.000 s | viol    0.0% | elapsed    64.0 d
+Day     66 +  0.00 h    17.9% | step   564935 | dt    10.000 s | viol    0.0% | elapsed    65.0 d
+Day     67 +  0.00 h    18.1% | step   573611 | dt    10.000 s | viol    0.0% | elapsed    66.0 d
+Day     68 +  0.00 h    18.4% | step   582287 | dt    10.000 s | viol    0.0% | elapsed    67.0 d
+Day     69 +  0.00 h    18.7% | step   590963 | dt    10.000 s | viol    0.0% | elapsed    68.0 d
+Day     70 +  0.00 h    19.0% | step   599639 | dt    10.000 s | viol    0.0% | elapsed    69.0 d
+Day     71 +  0.00 h    19.2% | step   608315 | dt    10.000 s | viol    0.0% | elapsed    70.0 d
+Day     72 +  0.00 h    19.5% | step   616991 | dt    10.000 s | viol    0.0% | elapsed    71.0 d
+Day     73 +  0.00 h    19.8% | step   625667 | dt    10.000 s | viol    0.0% | elapsed    72.0 d
+Day     74 +  0.00 h    20.1% | step   634344 | dt    10.000 s | viol    0.0% | elapsed    73.0 d
+Day     75 +  0.00 h    20.3% | step   643019 | dt    10.000 s | viol    0.0% | elapsed    74.0 d
+Day     76 +  0.00 h    20.6% | step   651695 | dt    10.000 s | viol    0.0% | elapsed    75.0 d
+Day     77 +  0.00 h    20.9% | step   660371 | dt    10.000 s | viol    0.0% | elapsed    76.0 d
+Day     78 +  0.00 h    21.2% | step   669047 | dt    10.000 s | viol    0.0% | elapsed    77.0 d
+Day     79 +  0.00 h    21.4% | step   677723 | dt    10.000 s | viol    0.0% | elapsed    78.0 d
+Day     80 +  0.00 h    21.7% | step   686399 | dt    10.000 s | viol    0.0% | elapsed    79.0 d
+Day     81 +  0.00 h    22.0% | step   695075 | dt    10.000 s | viol    0.0% | elapsed    80.0 d
+Day     82 +  0.00 h    22.3% | step   703751 | dt    10.000 s | viol    0.0% | elapsed    81.0 d
+Day     83 +  0.00 h    22.5% | step   712427 | dt    10.000 s | viol    0.0% | elapsed    82.0 d
+Day     84 +  0.00 h    22.8% | step   721103 | dt    10.000 s | viol    0.0% | elapsed    83.0 d
+Day     85 +  0.00 h    23.1% | step   729779 | dt    10.000 s | viol    0.0% | elapsed    84.0 d
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F699E645330  Unknown               Unknown  Unknown
+w2_exe_linux       0000000000723896  Unknown               Unknown  Unknown
+w2_exe_linux       00000000007181BD  Unknown               Unknown  Unknown
+w2_exe_linux       00000000006CBC38  Unknown               Unknown  Unknown
+w2_exe_linux       0000000000631DBA  Unknown               Unknown  Unknown
+w2_exe_linux       0000000000406EFD  Unknown               Unknown  Unknown
+libc.so.6          00007F699E62A1CA  Unknown               Unknown  Unknown
+libc.so.6          00007F699E62A28B  __libc_start_main     Unknown  Unknown
+w2_exe_linux       0000000000406E15  Unknown               Unknown  Unknown
